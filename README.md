@@ -34,7 +34,7 @@ Add module Configuration to your `AppConfig` file.
      * Google Analytics Configuration
      */
      'google-analytics-configuration' => [
-        'class' => 'thienhungho\GoogleAnalytics\modules\Configuration\Configuration',
+        'class' => 'thienhungho\GoogleAnalytics\modules\Configuration\ConfigurationModules',
      ],
     ...
 ],

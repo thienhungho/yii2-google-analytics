@@ -1,6 +1,6 @@
 <?php
 
-namespace thienhungho\GoogleAnalytics\modules\SiteConfiguration;
+namespace thienhungho\GoogleAnalytics\modules\Configuration;
 
 /**
  * SiteConfiguration module definition class

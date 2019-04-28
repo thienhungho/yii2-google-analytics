@@ -2,12 +2,12 @@
 
 namespace thienhungho\GoogleAnalytics\modules\Configuration\controllers;
 
-use thienhungho\GoogleAnalytics\modules\SiteConfiguration\GoogleAnalyticsForm;
+use thienhungho\GoogleAnalytics\modules\Configuration\GoogleAnalyticsForm;
 use yii\helpers\Url;
 use yii\web\Controller;
 
 /**
- * Default controller for the `SiteConfiguration` module
+ * Default controller for the `Configuration` module
  */
 class GoogleAnalyticsController extends Controller
 {

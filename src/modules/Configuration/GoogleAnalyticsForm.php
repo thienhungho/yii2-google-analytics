@@ -1,6 +1,6 @@
 <?php
 
-namespace thienhungho\GoogleAnalytics\modules\SiteConfiguration;
+namespace thienhungho\GoogleAnalytics\modules\Configuration;
 
 use common\modules\uploads\Uploads;
 use Yii;
