@@ -60,3 +60,5 @@ Constant
 
 Models
 ------------
+
+[GoogleAnalytics](https://github.com/thienhungho/yii2-google-analytics/tree/master/src/models/GoogleAnalytics.php)
